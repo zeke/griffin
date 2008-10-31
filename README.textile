@@ -1,0 +1,5 @@
+What tweets and growls? A Griffin.
+
+The griffin is a legendary creature with the body of a lion and the head and often wings of an eagle. This ruby script pulls down your twitter public timeline at an interval of your choosing and creates growl notifications for the new messages.
+
+It's a work in progress, mutated from someone else's hard work: http://pastie.org/44304
